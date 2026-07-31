@@ -41,4 +41,3 @@ function clearEntries() {
     quotient = 0;
 
 }
-
